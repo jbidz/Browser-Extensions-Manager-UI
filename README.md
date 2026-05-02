@@ -11,7 +11,6 @@ This is a solution to the [Browser extensions manager UI challenge on Frontend M
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
 ## Overview
@@ -60,15 +59,5 @@ One of the elegant solutions implemented was inlining the SVG logo in the HTML d
   transition: fill 0.3s ease;
 }
 ```
-
-### AI Collaboration
-
-This project was built with the assistance of Antigravity, an AI coding assistant. The AI helped:
-- Translate the design reference images into a responsive HTML layout
-- Implement the Dark/Light mode CSS theme rules based on the `style-guide.md`
-- Write the Vanilla JS logic to fetch and dynamically inject content from `data.json`
-- Debug minor syntactical issues with template literals
-
-## Author
 
 - Coded by - [John Denver Bidong](#)
